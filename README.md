@@ -1,2 +1,2 @@
-# Google_Looker
-Google Looker Studio
+# Google_Looker and Cognos
+Google Looker Studio and Cognos
